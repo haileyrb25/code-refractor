@@ -5,7 +5,10 @@ On this repo, I have a few items that were cleaned up for the client per the req
 
 
 [Live Link](https://haileyrb25.github.io/code-refractor/)
-On this link, you can see the optimization that was worked on to improve the page.
+Click this link to see the optimization that was worked on to improve the page. All changes have been posted to this live website.
+
+[Live Link](https://github.com/haileyrb25/code-refractor)
+Click this link to see my github activity for this repository!
 
 
 
