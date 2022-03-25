@@ -13,6 +13,6 @@ Click this link to see my github activity for this repository!
 
 
 Here is what the final product looks like:
-![alt text](image.jpg)
+![screenshot](./assets/images/screenshot%20of%20webpage.jpg)
 
 
